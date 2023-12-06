@@ -1,3 +1,5 @@
+![](header.png)
+
 # Analysing how languages affects LLM performance
 
 ## Source text
