@@ -38,13 +38,28 @@ V roce 2019 činila světová produkce jahod devět milionů tun, v čele s Čí
 2019 年，世界草莓产量为 900 万吨，其中中国占 40%。
 ```
 
+## Number of tokens used
 
 ![](language_token_count.png)
 
+## Number of tokens used with special characters removed
+
+* 🇩🇪 `Gesamtmenge führend war` ➡️ `Gesamtmenge fuhrend war`
+* 🇱🇹 `Sodinės braškės pirmą kartą` ➡️ `Sodines braskes pirma karta`
+* 🇬🇷 `Η φράουλα κήπου (ή απλά φράουλα, Fragaria × ananassa)` ➡️ `   (  , Fragaria  ananassa)`
+
 ![](language_token_count_spec_chars_removed.png)
+
+### Percentage change in number of tokens after removal of special characters
 
 ![](diff_after_removal_special_chars.png)
 
+## Similarity between multiple languages
+
+### Comparing cosine similarity between languages
+
 ![](matrix_original_languages.png)
+
+### Comparing cosine similarity between languages but with special characters removed
 
 ![](matrix_original_languages_no_latin.png)
