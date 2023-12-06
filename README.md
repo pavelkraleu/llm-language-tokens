@@ -40,6 +40,11 @@ V roce 2019 činila světová produkce jahod devět milionů tun, v čele s Čí
 
 ## Number of tokens used
 
+#### Lessons learned
+* 🇬🇷 needs the most number of tokens from all languages 
+* 🇬🇧 is the most efficient 
+* 🇨🇳 is more efficient than some european latin languages
+
 ![](language_token_count.png)
 
 ## Number of tokens used with special characters removed
@@ -47,19 +52,46 @@ V roce 2019 činila světová produkce jahod devět milionů tun, v čele s Čí
 * 🇩🇪 `Gesamtmenge führend war` ➡️ `Gesamtmenge fuhrend war`
 * 🇱🇹 `Sodinės braškės pirmą kartą` ➡️ `Sodines braskes pirma karta`
 * 🇬🇷 `Η φράουλα κήπου (ή απλά φράουλα, Fragaria × ananassa)` ➡️ `   (  , Fragaria  ananassa)`
+  * As you can see this process does not make sanse for some languages
+
+#### Lessons learned
+* aaa
+* bbb
+* ccc
 
 ![](language_token_count_spec_chars_removed.png)
 
 ### Percentage change in number of tokens after removal of special characters
 
+For better readability I have removed languages which can't be easily converted to latin characters
+🇺🇦,🇬🇷,🇧🇬,🇨🇳,🇰🇷,🇯🇵
+
+#### Lessons learned
+* aaa
+* bbb
+* ccc
+
 ![](diff_after_removal_special_chars.png)
 
 ## Similarity between multiple languages
 
+In following examples I have computed ADA embeddings for multiple languages anc dompared them with Cosine similarity.  
+
+
 ### Comparing cosine similarity between languages
+
+#### Lessons learned
+* 🇰🇷 has the lowest similarity across all languages
+* 🇳🇴 and 🇩🇰 is very close 
+* 🇨🇿 and 🇸🇰 is close too
 
 ![](matrix_original_languages.png)
 
 ### Comparing cosine similarity between languages but with special characters removed
+
+#### Lessons learned
+* aaa
+* bbb
+* ccc
 
 ![](matrix_original_languages_no_latin.png)
