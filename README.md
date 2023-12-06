@@ -7,4 +7,6 @@
 
 ![](diff_after_removal_special_chars.png)
 
-![](matrix.png)
+![](matrix_original_languages.png)
+
+![](matrix_original_languages_no_latin.png)
