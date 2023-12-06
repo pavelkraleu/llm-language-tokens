@@ -83,7 +83,11 @@ In following examples I have computed ADA embeddings for multiple languages anc 
 #### Lessons learned
 * 🇰🇷 has the lowest similarity across all languages
 * 🇳🇴 and 🇩🇰 is very close 
+  * 🇳🇴 `Hagejordbæret ble først foredlet frem i Bretagne`
+  * 🇩🇰 `Havejordbærret blev først avlet i Bretagne`
 * 🇨🇿 and 🇸🇰 is close too
+  * 🇨🇿 `Jahodník zahradní byl poprvé vyšlechtěn v Bretani ve Francii`
+  * 🇸🇰 `Jahoda záhradná bola prvýkrát vyšľachtená v Bretónsku vo Francúzsku`
 
 ![](matrix_original_languages.png)
 
