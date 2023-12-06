@@ -45,7 +45,17 @@ V roce 2019 činila světová produkce jahod devět milionů tun, v čele s Čí
 * 🇬🇧 is the most efficient 
 * 🇨🇳 is more efficient than some european latin languages
 
-![](language_token_count.png)
+<table>
+<tr align="center">
+  <td>Strawberry 🍓</td>
+  <td>Saturn 🚀</td>
+</tr>
+<tr>
+  <td><img src="strawberry/language_token_count.png"></td>
+  <td><img src="saturn/language_token_count.png"></td>
+</tr>
+</table>
+
 
 ## Number of tokens used with special characters removed
 
@@ -59,7 +69,16 @@ V roce 2019 činila světová produkce jahod devět milionů tun, v čele s Čí
 * bbb
 * ccc
 
-![](language_token_count_spec_chars_removed.png)
+<table>
+<tr align="center">
+  <td>Strawberry 🍓</td>
+  <td>Saturn 🚀</td>
+</tr>
+<tr>
+  <td><img src="strawberry/language_token_count_spec_chars_removed.png"></td>
+  <td><img src="saturn/language_token_count_spec_chars_removed.png"></td>
+</tr>
+</table>
 
 ### Percentage change in number of tokens after removal of special characters
 
@@ -71,7 +90,16 @@ For better readability I have removed languages which can't be easily converted 
 * bbb
 * ccc
 
-![](diff_after_removal_special_chars.png)
+<table>
+<tr align="center">
+  <td>Strawberry 🍓</td>
+  <td>Saturn 🚀</td>
+</tr>
+<tr>
+  <td><img src="strawberry/diff_after_removal_special_chars.png"></td>
+  <td><img src="saturn/diff_after_removal_special_chars.png"></td>
+</tr>
+</table>
 
 ## Similarity between multiple languages
 
@@ -89,7 +117,16 @@ In following examples I have computed ADA embeddings for multiple languages anc 
   * 🇨🇿 `Jahodník zahradní byl poprvé vyšlechtěn v Bretani ve Francii`
   * 🇸🇰 `Jahoda záhradná bola prvýkrát vyšľachtená v Bretónsku vo Francúzsku`
 
-![](matrix_original_languages.png)
+<table>
+<tr align="center">
+  <td>Strawberry 🍓</td>
+  <td>Saturn 🚀</td>
+</tr>
+<tr>
+  <td><img src="strawberry/matrix_original_languages.png"></td>
+  <td><img src="saturn/matrix_original_languages.png"></td>
+</tr>
+</table>
 
 ### Comparing cosine similarity between languages but with special characters removed
 
@@ -98,4 +135,15 @@ In following examples I have computed ADA embeddings for multiple languages anc 
 * bbb
 * ccc
 
-![](matrix_original_languages_no_latin.png)
+<table>
+<tr align="center">
+  <td>Strawberry 🍓</td>
+  <td>Saturn 🚀</td>
+</tr>
+<tr>
+  <td><img src="strawberry/matrix_original_languages_no_latin.png"></td>
+  <td><img src="saturn/matrix_original_languages_no_latin.png"></td>
+</tr>
+</table>
+
+![](matrix_relationship_matrix_different_texts.png)
