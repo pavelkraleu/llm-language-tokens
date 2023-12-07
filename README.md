@@ -150,7 +150,13 @@ In following examples I have computed ADA embeddings for multiple languages anc 
 </tr>
 </table>
 
-#### Difference between embeddings with and without special characters
+### Comparing cosine similarity between same text with and without special characters
+
+#### Lessons learned
+* aaa
+* bbb
+* ccc
+
 
 ![](matrix_relationship_matrix_no_special_chars_diff.png)
 
