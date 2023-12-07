@@ -147,3 +147,6 @@ In following examples I have computed ADA embeddings for multiple languages anc 
 </table>
 
 ![](matrix_relationship_matrix_different_texts.png)
+
+![](matrix_relationship_matrix_no_special_chars_diff.png)
+
