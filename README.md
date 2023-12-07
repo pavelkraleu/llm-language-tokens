@@ -38,7 +38,9 @@ V roce 2019 činila světová produkce jahod devět milionů tun, v čele s Čí
 2019 年，世界草莓产量为 900 万吨，其中中国占 40%。
 ```
 
-## Number of tokens used
+---
+
+## Tokens
 
 #### Lessons learned
 * 🇬🇷 needs the most number of tokens from all languages 
@@ -101,7 +103,9 @@ For better readability I have removed languages which can't be easily converted 
 </tr>
 </table>
 
-## Similarity between multiple languages
+---
+
+## Embeddings
 
 In following examples I have computed ADA embeddings for multiple languages anc dompared them with Cosine similarity.  
 
@@ -146,7 +150,22 @@ In following examples I have computed ADA embeddings for multiple languages anc 
 </tr>
 </table>
 
-![](matrix_relationship_matrix_different_texts.png)
+#### Difference between embeddings with and without special characters
 
 ![](matrix_relationship_matrix_no_special_chars_diff.png)
+
+### Comparing cosine similarity between completely different texts
+
+#### Lessons learned
+* aaa
+* bbb
+* ccc
+
+![](matrix_relationship_matrix_different_texts.png)
+
+---
+
+## Reasoning
+
+abc
 
