@@ -1,0 +1,16 @@
+Falcon 9 is an active US medium-class launcher developed by SpaceX.
+The rocket is designed to carry cargo as well as people, has two
+stages and is powered by liquid fuel. Since 2010, it has been used for
+a number of missions to deliver cargo to Earth orbit, as well as to
+launch various satellites, space stations and manned vehicles.  Falcon
+9 is one of the most widely used launchers today, particularly because
+of its reentry and landing capability, which allows the first stage to
+be used multiple times. Falcon 9 is capable of lifting a payload of up
+to 22,800kg into low earth orbit (LEO).  Falcon 9, the most important
+model in the SpaceX rocket family, was designed and is manufactured in
+Hawthorne, California. The prime contractor is SpaceX. Since its first
+launch in 2010, Falcon 9 has carried out more than a hundred missions
+with no crew losses, most of which resulted in a successful first
+stage landing. Falcon 9 has also carried several manned missions to
+the International Space Station as part of NASA's Commercial Crew
+programme.

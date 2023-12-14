@@ -1,0 +1,5 @@
+Falcon 9 je operativna ameriška srednje velika nosilna raketa, ki jo je razvila SpaceX za transport tovora na Mednarodno vesoljsko postajo (ISS). Raketa ima dve stopnji in tekoče gorivo ter je namenjena za človeške posadke. Uporabljajo jo od leta 2010 in je bila uporabljena za številne pošiljke tovora na ISS in za izstrelitev številnih satelitov.
+
+Od leta 2023 je Falcon 9 eden izmed ključnih nosilcev, ki so ponesli ljudi na Mednarodno vesoljsko postajo (ISS). Falcon 9 je znana po svoji zmožnosti izstreliti tovor v nizko Zemljino orbito (LEO) in nato pristati nazaj na Zemljo za ponovno uporabo: do 22,800 kg v LEO, kar je omogočilo številne misije, vključno s pošiljanjem Crew Dragon vesoljskega plovila na ISS.
+
+Falcon 9, največji proizvodni model družine raket Falcon, je bil zasnovan pod vodstvom Elona Muska v SpaceX v Hawthorneu v Kaliforniji; glavni izvajalec je SpaceX. Skupno je bilo izdelanih več deset vozil, sposobnih za letenje. Iz Cape Canaveral Space Force Station in Kennedy Space Center so jih izstrelili številne brez izgube posadke ali koristnega tovora. Od leta 2020 so z Falcon 9 izstrelili številne astronavte na Mednarodno vesoljsko postajo.

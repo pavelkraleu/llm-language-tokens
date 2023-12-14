@@ -1,0 +1,5 @@
+Falcon 9 je americká nosná raketa vyvinutá společností SpaceX pro dopravu nákladu na orbitu a k Mezinárodní vesmírné stanici (ISS). Raketa je určena pro lidi, má dvě stupně a je poháněna kapalným palivem. Byla poprvé vypuštěna v roce 2010 a od té doby byla použita k mnoha letům, včetně dopravy nákladu pro NASA.
+
+Falcon 9 je první orbitální třída rakety schopné přistání, což umožňuje její znovupoužití. Falcon 9 drží rekordy v nejtěžším vypuštěném nákladu a největší nosnosti na nízkou oběžnou dráhu Země: 22 800 kg (50 265 lb) pro nízkou oběžnou dráhu (LEO) a 8 300 kg (18 300 lb) pro geostacionární transferovou dráhu (GTO).
+
+Falcon 9, součást rodiny raket Falcon, byl navržen pod vedením Elona Muska; hlavním výrobcem je SpaceX. Celkem bylo postaveno mnoho raket Falcon 9 a všechny byly vypuštěny z různých kosmodromů, včetně Kennedyho vesmírného střediska, bez ztráty posádky nebo užitečného zatížení. Roku 2020 se na palubě Falconu 9 vydalo k Mezinárodní vesmírné stanici prvních 4 astronauti v rámci programu NASA Commercial Crew.

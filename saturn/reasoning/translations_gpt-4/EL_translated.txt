@@ -1,0 +1,12 @@
+Falcon 9 is an American heavy vehicle launcher developed by SpaceX.
+The rocket is partially reusable, has two stages and is powered by
+liquid fuel. It has been in service since 2010 and has been used for
+many manned and unmanned missions, including the ISS space station.
+Since 2023, Falcon 9 has carried humans to the International Space
+Station (ISS) and has performed many successful missions. Falcon 9 has
+the capability to launch cargo into low Earth orbit, with a maximum
+payload of 22,800 kg for low Earth orbit missions. Falcon 9 was
+designed and built by California-based SpaceX. It was the company's
+first rocket capable of carrying humans into space. It was launched
+many times, with considerable success, including several manned
+missions to the International Space Station (ISS).

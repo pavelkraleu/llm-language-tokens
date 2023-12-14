@@ -1,0 +1,15 @@
+Falcon 9 is an active American launch vehicle developed by SpaceX for
+commercial and government flights. The rocket is designed for humans,
+has two stages and is powered by liquid fuel. It has been in service
+since 2010 and has been used for a number of missions, including the
+Dragon Cargo and Crew launches, as well as the Starlink satellites.
+As of 2020, Falcon 9 remains one of the launch vehicles that have
+carried humans beyond low Earth orbit (LEO). Falcon 9 holds the record
+for the most reused stages: first stages have been successfully reused
+up to 10 times.  Falcon 9, the most widely used model in the SpaceX
+family of rockets, was designed under Elon Musk's direction in
+Hawthorne, California; the prime contractor is SpaceX itself. In
+total, hundreds of Falcon 9 rockets have been built and launched, many
+of which have been successfully reused. Starting with the Demo-2
+mission (May 2020), SpaceX is launching astronauts to the
+International Space Station aboard Falcon 9 rockets.

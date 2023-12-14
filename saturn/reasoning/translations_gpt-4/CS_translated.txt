@@ -1,0 +1,16 @@
+Falcon 9 is an American launch vehicle developed by SpaceX to carry
+cargo to orbit and to the International Space Station (ISS). The
+rocket is designed for humans, has two stages and is powered by liquid
+fuel. It was first launched in 2010 and has since been used for many
+flights, including transporting cargo for NASA.  Falcon 9 is the first
+orbital class of rocket capable of landing, allowing it to be reused.
+Falcon 9 holds the records for heaviest launched payload and largest
+payload to low Earth orbit: 22,800 kg (50,265 lb) for low Earth orbit
+(LEO) and 8,300 kg (18,300 lb) for geostationary transfer orbit (GTO).
+Falcon 9, part of the Falcon family of rockets, was designed under the
+direction of Elon Musk; SpaceX is the primary manufacturer. In total,
+many Falcon 9 rockets have been built and all have been launched from
+various spaceports, including Kennedy Space Center, without loss of
+crew or payload. In 2020, the first 4 astronauts aboard a Falcon 9
+headed to the International Space Station as part of NASA's Commercial
+Crew program.

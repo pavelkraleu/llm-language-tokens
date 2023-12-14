@@ -1,0 +1,5 @@
+A Falcon 9 egy működő amerikai kétfokozatú hordozórakéta, amelyet a SpaceX fejlesztett ki a Nemzetközi Űrállomás (ISS) és a kereskedelmi űrutazás számára. A rakéta emberes rakéta volt, kétfokozatú, és folyékony üzemanyaggal működött. Az 2010 óta repült űrhajót több száz űrutazásra, beleértve a Nemzetközi Űrállomásra történő utazásokat és kereskedelmi műholdindításokat használták.
+
+A Falcon 9 a leggyakrabban használt hordozórakéta, amely embereket juttat az alacsony Föld körüli pályára (LEO). A Falcon 9 tartja a legtöbb sikeres függőleges leszállás rekordját, ami lehetővé teszi a rakéta első fokozatának újrahasznosítását: ez nagyban csökkenti a küldetések költségét.
+
+A Falcon 9-et, a SpaceX legnépszerűbb rakétáját Elon Musk irányítása alatt tervezték a kaliforniai Hawthorne-ban található SpaceX központban; a SpaceX a fő vállalkozó és gyártó. Több száz sikeres indítást hajtottak végre, beleértve az ISS-re történő utazásokat és kereskedelmi műholdindításokat. A Falcon 9 több emberes küldetést is végrehajtott, beleértve a Crew Dragon űrhajójának indítását, amely amerikai űrhajósokat szállított az ISS-re.
