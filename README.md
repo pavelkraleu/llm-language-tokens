@@ -4,6 +4,12 @@
 
 ## Source text
 
+I took two texts and translated them into various languages. 
+First text is sample of wikipedia article about [Strawberry](https://en.wikipedia.org/wiki/Strawberry) and second is about [Saturn V](https://en.wikipedia.org/wiki/Saturn_V). 
+Below you can see samples of such translations.  
+
+Languages are analysed on order as they are on Earth. English-UK being the first, follwed by France etc.  
+
 <table>
 <tr align="center">
   <td>Strawberry 🍓</td>
@@ -45,6 +51,8 @@
 
 ## Tokens
 
+I analysed number of GPT tokens needed to represent input text in various languages. 
+
 #### Lessons learned
 
 * 🇬🇷 needs the most number of tokens from all languages
@@ -62,18 +70,20 @@
 </tr>
 </table>
 
-## Number of tokens used with special characters removed
+## Number of tokens used with diacritic removed
 
+I analysed how many GPT tokens can be saved when we remove diacritic.
+
+Some languages are affected more than others: 
 * 🇩🇪 `Gesamtmenge führend war` ➡️ `Gesamtmenge fuhrend war`
 * 🇱🇹 `Sodinės braškės pirmą kartą` ➡️ `Sodines braskes pirma karta`
 * 🇬🇷 `Η φράουλα κήπου (ή απλά φράουλα, Fragaria × ananassa)` ➡️ `   (  , Fragaria  ananassa)`
-    * As you can see this process does not make sanse for some languages
+    * As you can see this process does not make sense for some languages
 
 #### Lessons learned
 
-* aaa
-* bbb
-* ccc
+* Nothing remains from text translated to asian languages
+* Most European languages are mostly unaffected
 
 <table>
 <tr align="center">
@@ -93,9 +103,8 @@ For better readability I have removed languages which can't be easily converted 
 
 #### Lessons learned
 
-* aaa
-* bbb
-* ccc
+* Lithuanian and Latvian languages are affected the most
+* German is affected very little
 
 <table>
 <tr align="center">
@@ -112,13 +121,14 @@ For better readability I have removed languages which can't be easily converted 
 
 ## Embeddings
 
-In following examples I have computed ADA embeddings for multiple languages anc dompared them with Cosine similarity.
+In following examples I have computed ADA embeddings for multiple languages and compared them with Cosine similarity.
 
 ### Comparing cosine similarity between languages
 
 #### Lessons learned
 
-* 🇰🇷 has the lowest similarity across all languages
+* 🇰🇷 has the lowest similarity across all languages in text about Strawberry
+* Asian languages have big distance with other languages in text about Saturn V
 * 🇳🇴 and 🇩🇰 is very close
     * 🇳🇴 `Hagejordbæret ble først foredlet frem i Bretagne`
     * 🇩🇰 `Havejordbærret blev først avlet i Bretagne`
@@ -137,7 +147,9 @@ In following examples I have computed ADA embeddings for multiple languages anc 
 </tr>
 </table>
 
-### Comparing cosine similarity between languages but with special characters removed
+### Comparing cosine similarity between languages but with diacritic removed
+
+I analysed how much embeddings differ if we remove diacritic 
 
 #### Lessons learned
 
@@ -158,21 +170,35 @@ In following examples I have computed ADA embeddings for multiple languages anc 
 
 ### Comparing cosine similarity between same text with and without special characters
 
+Here you can see the difference between Cosine similarity with embeddings computed
+on original texts which contain diacritic and embeddings computed on texts with diacritic removed.
+
 #### Lessons learned
 
-* aaa
-* bbb
-* ccc
+* Latvian is affected the most
+* Different texts are affected differently
 
-![](matrix_relationship_matrix_no_special_chars_diff.png)
+<table>
+<tr align="center">
+  <td>Strawberry 🍓</td>
+  <td>Saturn 🚀</td>
+</tr>
+<tr>
+  <td><img src="strawberry/matrix_relationship_matrix_no_special_chars_diff.png"></td>
+  <td><img src="saturn/matrix_relationship_matrix_no_special_chars_diff.png"></td>
+</tr>
+</table>
 
 ### Comparing cosine similarity between completely different texts
 
+Here I compared embeddings of text about Strawberry with text about Saturn V
+to check what could be the maximum difference.
+
 #### Lessons learned
 
-* aaa
-* bbb
-* ccc
+* No language has zero distance to different texts
+* English has the lowest values
+* European languages have higher values
 
 ![](matrix_relationship_matrix_different_texts.png)
 
